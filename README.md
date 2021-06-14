@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Chris and I'm a fullstack Ruby on Rails and Javascript Deveoper.
 <!--
 **chrislemus/chrislemus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
