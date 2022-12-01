@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Chris and I'm a Full Stack JavaScript/Ruby on Rails Developer from Raleigh, North Carolina. I create efficient and innovative experiences that balance user needs and business goals.
+My name is Chris and I'm a Full Stack JavaScript/Ruby on Rails Developer from North Carolina. I create efficient and innovative experiences that balance user needs and business goals.
 <!--
 **chrislemus/chrislemus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
